@@ -7,5 +7,14 @@
     overflow: auto;
     border-radius: 20px 0px 0px 0px;
     opacity: 0px;
-    align-content: center;
+    text-align: center;
+    position: fixed;
+}
+div{
+    margin: 10px;
+}
+input{
+    padding: 15px;
+    border-radius: 5px ;
+    width: 220px;
 }
